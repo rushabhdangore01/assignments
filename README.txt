@@ -1,0 +1,1 @@
+This folder contains various assignments related to Git and version control. Each assignment is organized into separate subdirectories for clarity. You can find instructions and resources for completing each assignment within the respective subfolders.
